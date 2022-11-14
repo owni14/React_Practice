@@ -1,0 +1,9 @@
+.div {
+  display: flex;
+  background-color: cornflowerblue;
+  text-align: center;
+}
+.span {
+  margin: 1rem;
+  font-size: 2rem;
+}
