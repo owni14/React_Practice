@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Header from '../Header/Header';
 
 function Login() {
   const [id, setId] = useState('');
@@ -13,7 +12,6 @@ function Login() {
 
   return (
     <div>
-      <Header />
       <p>Login page</p>
       <input
         type='text'
