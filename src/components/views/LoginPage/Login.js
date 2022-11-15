@@ -29,7 +29,7 @@ function Login() {
         onChange={({ target: { value } }) => setPw(value)}
       />
       <br />
-      <button onClick={onClickHandler}>Sumbit</button>
+      <button onClick={onClickHandler}>Login</button>
     </div>
   );
 }

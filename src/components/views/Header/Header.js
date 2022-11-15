@@ -14,6 +14,9 @@ function Header() {
       <span className={classes.span}>
         <Link to='/register'>register</Link>
       </span>
+      <span className={classes.span}>
+        <Link to='/test'>test</Link>
+      </span>
     </div>
   );
 }
